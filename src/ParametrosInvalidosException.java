@@ -4,6 +4,5 @@ public class ParametrosInvalidosException extends Exception{
     }
 
     public void ParametrosInvalidosException(int parametroUm,int parametroDois) {
-        if (parametroDois > parametroUm);
     }
 }
